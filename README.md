@@ -21,21 +21,21 @@ https://localhost:5272/swagger
 
 ## Endpoints
 
-POST /api/customers ¡X create customer with images  
+POST /api/customers ¡ create customer with images  
 
-GET /api/customers ¡X get all customers  
+GET /api/customers ¡ get all customers  
 
-GET /api/customers/{id} ¡X get one customer  
+GET /api/customers/{id} ¡ get one customer  
 
-GET /api/customers/{id}/images/count ¡X count images  
+GET /api/customers/{id}/images/count ¡ count images  
 
-POST /api/customers/{id}/images ¡X add images  
+POST /api/customers/{id}/images ¡ add images  
 
-PUT /api/customers/{id}/images ¡X replace images  
+PUT /api/customers/{id}/images ¡ replace images  
 
-GET /api/customers/{id}/images/{imageId}/preview ¡X preview image  
+GET /api/customers/{id}/images/{imageId}/preview ¡ preview image  
 
-DELETE /api/customers/{id}/images ¡X delete all images
+DELETE /api/customers/{id}/images ¡ delete all images
 
 GET /api/customers/{id}/images/count - count how many images storing per customer
 
