@@ -21,24 +21,24 @@ https://localhost:5272/swagger
 
 ## Endpoints
 
-POST /api/customers กX create customer with images  
+POST /api/customers ยก create customer with images  
 
-GET /api/customers กX get all customers  
+GET /api/customers ยก get all customers  
 
-GET /api/customers/{id} กX get one customer  
+GET /api/customers/{id} ยก get one customer  
 
-GET /api/customers/{id}/images/count กX count images  
+GET /api/customers/{id}/images/count ยก count images  
 
-POST /api/customers/{id}/images กX add images  
+POST /api/customers/{id}/images ยก add images  
 
-PUT /api/customers/{id}/images กX replace images  
+PUT /api/customers/{id}/images ยก replace images  
 
-GET /api/customers/{id}/images/{imageId}/preview กX preview image  
+GET /api/customers/{id}/images/{imageId}/preview ยก preview image  
 
-DELETE /api/customers/{id}/images กX delete all images
+DELETE /api/customers/{id}/images ยก delete all images
 
 GET /api/customers/{id}/images/count - count how many images storing per customer
 
 ## Video Demonstration
+[โ–ถ๏ธ Watch Demo Video](https://raw.githubusercontent.com/timleunghk/CustomerLeadImageApi/master/CustomerLeadImageAPIDemo.mp4)
 
-[Download to Watch Demo (MP4)](https://drive.google.com/file/d/1clpTf_osCM26X1aEbq162FbCI62MMmPc/view?usp=sharing)
