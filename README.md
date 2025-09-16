@@ -40,5 +40,5 @@ DELETE /api/customers/{id}/images ¡X delete all images
 GET /api/customers/{id}/images/count - count how many images storing per customer
 
 ## Video Demonstration
-[▶️ Watch Demo Video](https://github.com/timleunghk/CustomerLeadImageApi/blob/master/CustomerLeadImageAPIDemo.mp4)
-[Download Demo Video (MP4)](https://drive.google.com/file/d/1clpTf_osCM26X1aEbq162FbCI62MMmPc/view?usp=sharing)
+[▶️ Watch Demo Video](https://raw.githubusercontent.com/timleunghk/CustomerLeadImageApi/master/CustomerLeadImageAPIDemo.mp4)
+
