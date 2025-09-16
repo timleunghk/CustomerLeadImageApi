@@ -1,0 +1,74 @@
+# ------------------------------
+# Visual Studio / .NET ignores
+# ------------------------------
+
+## Build results
+bin/
+obj/
+out/
+Debug/
+Release/
+
+## VS IDE settings
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code settings
+.vscode/
+
+# ------------------------------
+# NuGet
+# ------------------------------
+
+*.nupkg
+*.snupkg
+project.lock.json
+packages/
+*.nuget.props
+*.nuget.targets
+
+# ------------------------------
+# Logs / Dumps
+# ------------------------------
+
+*.log
+*.tlog
+*.swp
+*.dmp
+*.tmp
+*.bak
+*.backup
+*.orig
+
+# ------------------------------
+# EF Core / Databases
+# ------------------------------
+
+# SQLite local database
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Migrations snapshot files (optional ¡X keep if you want CI/CD schema tracking)
+# Migrations/**/*.Designer.cs
+# Migrations/*ModelSnapshot.cs
+
+# ------------------------------
+# Other system / cache files
+# ------------------------------
+
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# ------------------------------
+# Publish output
+# ------------------------------
+
+*.publishsettings
+app.publish/
