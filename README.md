@@ -41,4 +41,3 @@ GET /api/customers/{id}/images/count - count how many images storing per custome
 
 ## Video Demonstration
 [▶️ Watch Demo Video](https://raw.githubusercontent.com/timleunghk/CustomerLeadImageApi/master/CustomerLeadImageAPIDemo.mp4)
-
